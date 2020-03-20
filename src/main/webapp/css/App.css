@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+
+body {
+    background-color : rgb(241, 231, 231);
+    text-align :center;
+    width :100%;
+    height : 100%;
+    display: block;
+   
+    
+}
+h2 { display : flex;}
+.wall {
+    position: relative;
+    top : 70px;
+    margin-left : 10%;
+    margin-right : 10%;
+    padding :2rem;
+    height : auto;
+    background-color : white;
+}
+
+header {
+    height : 4rem;
+    
+}
+
+.header {
+    text-decoration : none;
+    font-size : 2.4rem;
+    /*color : rgb(87, 179, 107);*/
+    color : blueviolet;
+    font-size : 50px;
+}
+
+.blank {
+    width:100%;
+    border : 1px solild white;
+    outline : none;
+    line-height : 2.5rem;
+    font-size : 1.2rem;
+    border-radius: 10px;
+}
+
+#button1 {
+    color : white;
+    font-weight : 700;
+    text-align: center;
+    font-size : 1.25rem;
+    /*background-color: rgb(66, 180, 91);*/
+    background-color: blueviolet;
+    width : 100%;
+    margin-top : 1rem;
+    padding-top:0.6rem;
+    padding-bottom : 0.5rem;
+    border-radius: 10px;
+}
+
+.button2 {
+    margin : auto;
+    border : 0px;
+    background-color: white;
+    font-weight: 700;
+}
+
+.button3 {
+    margin : auto;
+    border : 0px;
+    background-color: white;
+    font-weight: 700;
+}
+
+.button4 {
+    margin : auto;
+    border : 0px;
+    background-color: white;
+    font-weight: 700;
+}
+
+.BG {
+    text-align: right;
+}
